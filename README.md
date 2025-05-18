@@ -13,6 +13,8 @@ Hi, I'm Madhu, passionate and highly motivated PCAP-certified Software Engineer 
 # 📫 Connect with Me
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-priyadarshni-ojha-169a1a22/)
 
+# 💼 Portfolio  [click here](https://madhupojha.github.io/portfolio/)
+
 ## Languages and Technologies
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
